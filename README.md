@@ -56,6 +56,3 @@ You can save the current game state at any time and load it later to continue fr
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this software.
-
-## Contact
-For any questions or suggestions, please contact the project maintainer at [email@example.com].
