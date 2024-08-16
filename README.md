@@ -2,7 +2,7 @@
 ![Example](https://github.com/Silent0Wings/Othello-Game-Variant/blob/2f09b01cafeff74f0012f17e44f92abeb4be3d97/Othello.png)
 
 ## Project Overview
-Project Repport .[here](https://github.com/Silent0Wings/Othello-Game-Variant/blob/2f09b01cafeff74f0012f17e44f92abeb4be3d97/Github.pdf).
+Project Report .[here](https://github.com/Silent0Wings/Othello-Game-Variant/blob/2f09b01cafeff74f0012f17e44f92abeb4be3d97/Github.pdf).
 
 UML Design .[here](https://github.com/Silent0Wings/Othello-Game-Variant/blob/2f09b01cafeff74f0012f17e44f92abeb4be3d97/UML%20Game.pdf)
 
